@@ -7,6 +7,4 @@ Curso ministrado pelo professor/desenvolver @eduardocostaprofessor.
 
 <h2>Projtos:</2>
 
-<ul>       
-    <a href="https://github.com/raphaelmelo/curso-frontend-senai-2020/tree/master/EstiloUx-Exercic%C3%ADo-01">EstiloUx</a>
-</ul>
+<ol><a href="https://github.com/raphaelmelo/curso-frontend-senai-2020/tree/master/EstiloUx-Exercic%C3%ADo-01">EstiloUx</a></ol>
