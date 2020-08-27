@@ -5,6 +5,4 @@ O curso ME capacitOU no desenvolvimento de Interfaces Web através das tecnologi
 
 Curso ministrado pelo professor/desenvolver @eduardocostaprofessor.
 
-<h2>Projtos:</2>
-
-<ol>-<a href="https://github.com/raphaelmelo/curso-frontend-senai-2020/tree/master/EstiloUx-Exercic%C3%ADo-01">EstiloUx</a></ol>
+## <a href="https://github.com/raphaelmelo/curso-frontend-senai-2020/tree/master/EstiloUx-Exercic%C3%ADo-01">EstiloUx</a> 
